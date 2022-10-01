@@ -1,4 +1,4 @@
-SCOAD: Signal-frame Click Supervision for Online Action Detection
+SCOAD: Single-frame Click Supervision for Online Action Detection
 ------
 This repository is the official implementation of SCOAD. In this work, we propose a weakly supervised online action detection method with click labels.
 ![在这里插入图片描述](https://github.com/zstarN70/SCOAD/blob/main/framework.png)
